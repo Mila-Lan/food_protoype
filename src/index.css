@@ -4,15 +4,13 @@
   font-style: normal;
 } */
 
-
-
 :root {
   --color-sand: #E8D4BC;
   --color-burgundy: #880044;
   --color-brown: #188C69;
   --color-leaf: #496F5D;
   --font-main: "Annie Use Your Telescope", cursive;
-  --font-main: 'Segoe UI', system-ui, sans-serif; 
+  --font-main-alternative: 'Segoe UI', system-ui, sans-serif; 
 }
 
 * {
