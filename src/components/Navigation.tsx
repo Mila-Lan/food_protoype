@@ -9,20 +9,7 @@ function Navigation() {
         <div className="nav-content">
           
           <div className="nav-links">
-            <NavLink 
-              to="/" 
-              className={({ isActive }) => `nav-link${isActive ? ' active' : ''}`}
-              end
-            >
-              Home
-            </NavLink>
             
-            <NavLink 
-              to="/composting" 
-              className={({ isActive }) => `nav-link${isActive ? ' active' : ''}`}
-            >
-              Composting
-            </NavLink>
             <NavLink 
               to="/tips" 
               className={({ isActive }) => `nav-link${isActive ? ' active' : ''}`}
