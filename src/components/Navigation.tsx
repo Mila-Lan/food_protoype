@@ -16,12 +16,7 @@ function Navigation() {
             >
               Home
             </NavLink>
-            <NavLink 
-              to="/statistics" 
-              className={({ isActive }) => `nav-link${isActive ? ' active' : ''}`}
-            >
-              Statistics
-            </NavLink>
+            
             <NavLink 
               to="/composting" 
               className={({ isActive }) => `nav-link${isActive ? ' active' : ''}`}
