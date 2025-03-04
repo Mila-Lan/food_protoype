@@ -22,7 +22,7 @@
 body {
   font-family: var(--font-main);
   background-color: var(--color-sand);
-  color: #333;
+  color: #188C69;
   line-height: 1.5;
   padding: 2rem;
 }
@@ -34,7 +34,7 @@ body {
 }
 
 .nav-button {
-  background: #F4E4BC;
+  background: #880044;
   border: none;
   padding: 0.5rem 1rem;
   border-radius: 20px;
@@ -67,7 +67,7 @@ body {
 }
 
 .subtitle {
-  color: #666;
+  color: #188C69;
   font-size: 1.1rem;
   margin-bottom: 2rem;
   line-height: 1.6;
@@ -112,7 +112,7 @@ body {
 .small-shape-text {
   text-align: center;
   font-size: 0.8rem;
-  color: #666;
+  color: #188C69;
   margin-top: 0.5rem;
 }
 
