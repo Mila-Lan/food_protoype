@@ -7,10 +7,7 @@ function Navigation() {
     <nav className="nav">
       <div className="container">
         <div className="nav-content">
-          <NavLink to="/" className="nav-brand">
-            <Sprout size={24} />
-            <span>Food Waste NZ</span>
-          </NavLink>
+          
           <div className="nav-links">
             <NavLink 
               to="/" 
@@ -43,5 +40,4 @@ function Navigation() {
     </nav>
   );
 }
-
 export default Navigation
