@@ -7,14 +7,6 @@ import { OnionShape, BroccoliShape, CarrotShape, LettuceShape, PepperShape } fro
 function Home() {
   return (
     <div>
-      <nav className="nav">
-        <button className="nav-button">Lorem</button>
-        <button className="nav-button">Lorem</button>
-        <button className="nav-button">Waste less Eat more</button>
-        <button className="nav-button">Lorem</button>
-        <button className="nav-button">Lorem</button>
-      </nav>
-
       <section className="main-section">
         <div className="content">
           <h1 className="title">
