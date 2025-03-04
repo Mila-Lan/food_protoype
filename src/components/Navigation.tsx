@@ -10,12 +10,7 @@ function Navigation() {
           
           <div className="nav-links">
             
-            <NavLink 
-              to="/tips" 
-              className={({ isActive }) => `nav-link${isActive ? ' active' : ''}`}
-            >
-              Tips
-            </NavLink>
+           
           </div>
         </div>
       </div>
