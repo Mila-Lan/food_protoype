@@ -1,9 +1,18 @@
+/* .annie-use-your-telescope-regular {
+  font-family: "Annie Use Your Telescope", cursive;
+  font-weight: 400;
+  font-style: normal;
+} */
+
+
+
 :root {
-  --color-sand: #F4E4BC;
-  --color-burgundy: #8B2635;
-  --color-brown: #8B4513;
+  --color-sand: #E8D4BC;
+  --color-burgundy: #880044;
+  --color-brown: #188C69;
   --color-leaf: #496F5D;
-  --font-main: 'Segoe UI', system-ui, sans-serif;
+  --font-main: "Annie Use Your Telescope", cursive;
+  --font-main: 'Segoe UI', system-ui, sans-serif; 
 }
 
 * {
@@ -27,7 +36,7 @@ body {
 }
 
 .nav-button {
-  background: #a6ffcb;
+  background: #F4E4BC;
   border: none;
   padding: 0.5rem 1rem;
   border-radius: 20px;
